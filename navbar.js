@@ -12,7 +12,7 @@ document.write('<nav class="navbar navbar-expand-lg navbar-light bg-light">\
     <span class="navbar-toggler-icon"></span>\
   </button>\
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">\
-    <div class="navbar-nav">\
+    <div  id="tooplate_menu" class="ddsmoothmenu" class="navbar-nav">\
       <div class="dropdown">\
         <a\
           class="nav-link dropdown-toggle"\
