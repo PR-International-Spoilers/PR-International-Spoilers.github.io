@@ -6,7 +6,7 @@ http://www.tooplate.com/view/2055-premium
 body {
 	margin: 0;
 	padding: 0;
-	color: #6e6e6e;
+	color: #ffffff;
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 13px;
 	line-height: 1.4em; 
@@ -60,7 +60,7 @@ cite span {
 	color: #01b8c7; 
 }
 
-h1, h2, h3, h4, h5, h6 { color: #333; font-weight: normal; }
+h1, h2, h3, h4, h5, h6 { color: #ffffff; font-weight: normal; }
 h1 { font-size: 48px; margin: 0 0 30px; padding: 5px 0 }
 h2 { font-size: 30px; margin: 0 0 25px; padding: 5px 0 }
 h3 { font-size: 24px; margin: 0 0 20px; padding: 0; }
