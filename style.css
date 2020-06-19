@@ -1,13 +1,7 @@
 div{
-	background-color:white;
-	background-repeat: repeat-y;
 	padding: 10% 10% 10% 10%;
 	margin:  10% 10% 10% 10%;
-	border: 10px;
+	border-width: : 10px;
+	border-color: red;
 	border-style:solid;
-}
-
-#toolplate_header{
-	background-color: #7f7f7f;
-
 }
