@@ -1,4 +1,4 @@
-document.write('<nav id="tooplate_header" class="navbar navbar-expand-lg navbar-light bg-light">\
+document.write('class="navbar navbar-expand-lg navbar-light bg-light">\
   <a class="navbar-brand" href="https://pr-international-spoilers.github.io/index.html">Power Rangers International Spoilers  (V1.1.0)</a>\
   <button\
     class="navbar-toggler"\
@@ -12,7 +12,7 @@ document.write('<nav id="tooplate_header" class="navbar navbar-expand-lg navbar-
     <span class="navbar-toggler-icon"></span>\
   </button>\
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">\
-    <div  id="tooplate_menu" class="ddsmoothmenu" class="navbar-nav">\
+    <div class="navbar-nav">\
       <div class="dropdown">\
         <a\
           class="nav-link dropdown-toggle"\
