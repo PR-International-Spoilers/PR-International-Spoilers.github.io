@@ -39,10 +39,10 @@ document.write('<nav id="tooplate_header" class="navbar navbar-expand-lg navbar-
           <a class="dropdown-item" href="../BM/212.html" target="_top"\
             >Episode 12: Finders Keepers</a\
           >\
-          <a class="dropdown-item" href="../BM/212.html" target="_top"\
+          <a class="dropdown-item" href="../BM/222.html" target="_top"\
             >Episode 22: Making Bad [CLIPSHOW]</a\
           >\
-          <a class="dropdown-item" href="../BM/212.html" target="_top"\
+          <a class="dropdown-item" href="../BM/213.html" target="_top"\
             >Episode 13: Grid Connection</a\
           >\
         </div>\
