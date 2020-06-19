@@ -39,6 +39,12 @@ document.write('<nav class="navbar navbar-expand-lg navbar-light bg-light">\
           <a class="dropdown-item" href="../BM/212.html" target="_top"\
             >Episode 12: Finders Keepers</a\
           >\
+          <a class="dropdown-item" href="../BM/212.html" target="_top"\
+            >Episode 22: Making Bad [CLIPSHOW]</a\
+          >\
+          <a class="dropdown-item" href="../BM/212.html" target="_top"\
+            >Episode 13: Grid Connection</a\
+          >\
         </div>\
       </div>\
     </div>\
