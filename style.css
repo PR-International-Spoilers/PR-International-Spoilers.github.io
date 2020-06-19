@@ -1,6 +1,6 @@
 body{
-	background-image: url(toolplate_body.jpg);
-	background-color: black;
+	background-image: url("toolplate_body.jpg");
+	background-repeat: repeat-y;
 }
 
 #toolplate_header{
