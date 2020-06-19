@@ -1,4 +1,4 @@
-document.write('<nav class="navbar navbar-expand-lg navbar-light bg-light">\
+document.write('<nav id="tooplate_header" class="navbar navbar-expand-lg navbar-light bg-light">\
   <a class="navbar-brand" href="https://pr-international-spoilers.github.io/index.html">Power Rangers International Spoilers  (V1.1.0)</a>\
   <button\
     class="navbar-toggler"\
