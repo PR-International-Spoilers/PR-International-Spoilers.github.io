@@ -48,6 +48,9 @@ document.write('<nav id="tooplate_header" class="navbar navbar-expand-lg navbar-
           <a class="dropdown-item" href="../BM/214.html" target="_top"\
             >Episode 14: Golden Opportunity</a\
           >\
+		  <a class="dropdown-item" href="../BM/215.html" target="_top"\
+            >Episode 15: Goin\' ape</a\
+          >\
         </div>\
       </div>\
     </div>\
